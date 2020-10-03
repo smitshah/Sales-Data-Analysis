@@ -16,8 +16,8 @@ The solution of this you will find in "Sales Data Analysis Mini Project.ipynb" f
       <td><b> Identifying and importing essential libraries </td>
     </tr>
     <tr>
-      <td rowspan=6><b>Task 2</td>
-      <td><b> Data loading and overview </td>
+      <td><b>Task 2</td>
+      <td><b> Data loading and overview <br> a. Load the dataset from a file </td>
     </tr>
     <tr>
       <td> a. Load the dataset from a file</td>
