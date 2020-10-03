@@ -15,10 +15,9 @@ The solution of this you will find in "Sales Data Analysis Mini Project.ipynb" f
       <td><b>Task 1</td>
       <td><b> Identifying and importing essential libraries </td>
     </tr>
-  
     <tr>
       <td rowspan=6><b>Task 2</td>
-      <td><b>Data loading and overview</td>
+      <td><b> Data loading and overview </td>
     </tr>
   </tbody>
 </table>
